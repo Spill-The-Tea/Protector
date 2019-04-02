@@ -2,7 +2,7 @@
 UCI protocol compatible Chess Engine
 
 ## Original Source Code
-Can be found on sourceforge, (here)[https://sourceforge.net/p/protector/code/HEAD/tree/]
+Can be found on sourceforge, [here](https://sourceforge.net/p/protector/code/HEAD/tree/)
 
 ## Purpose of this Fork
   The Purpose of this fork is to make compilation mac compatible. All changes should be </br>
