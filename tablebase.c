@@ -30,7 +30,8 @@
 #if defined __linux__
 pthread_mutex_t mutex;
 #else
-pthread_mutex_t lock;
+pthread_mutex_t lock; // Original Line of Code : pthread_spinlock_t lock;
+
 #endif
 
 volatile int tbAccessCount = 0;
