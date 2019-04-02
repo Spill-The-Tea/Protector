@@ -4,7 +4,16 @@ UCI protocol compatible Chess Engine
 ## Original Source Code
 Can be found on sourceforge, (here)[https://sourceforge.net/p/protector/code/HEAD/tree/]
 
-### TERMS OF USE
+## Purpose of this Fork
+  The Purpose of this fork is to make compilation mac compatible. All changes should be </br>
+  relatively non-functional.
+
+## Instructions to Compile Protector on Mac
+
+
+
+  
+## TERMS OF USE
 
 Protector is free, and distributed under the GNU General Public License(GPL). </br>
 Essentially, this means that you are free to do almost what you want with the program, </br>
@@ -21,14 +30,14 @@ made available under the GPL.
 
 For full details, read the copy of the GPL found in the file named Copying.txt.
 
-### COPYRIGHTS
+## COPYRIGHTS
 
 Please note that the sources for the endgame table access from Eugene Nalimov and Andrew Kadatch are NOT </br>
 distributed under GPL. In order to use them for any other purpose than building Protector you will need </br>
 an own separate permission from Eugene Nalimov and Andrew Kadatch (see the copyright remarks in their </br>
 files [egtb.cpp and tbdecode.h] for more details).
 
-### CREDITS
+## CREDITS
 
 Protector is based on many great ideas from the following people: </br>
 Fabien Letouzey (pvnodes, blending of opening and endgame values, eval params), </br>
